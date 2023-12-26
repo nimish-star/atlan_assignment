@@ -27,6 +27,17 @@ The Webapp loads in about 0.4 s to 0.6s. This is calculated by using Google Ligh
 - `select * from shippers`
 - `select * from suppliers`
 
+  ##  NPM Modules Used
+
+- `"react-ace": "^10.1.0",` - To make the code editor
+- `"react-csv-to-table": "^0.0.4",` - To show the output as a simple CSV table
+- `"react-dom": "^18.2.0",` - To interact with React's virtual DOM
+- `"react-icons": "^4.4.0",` - To have an icon library
+- `"react-router-dom": "^6.3.0",` - To implement routing features provided by React.js
+- `"react-toastify": "^9.0.5",` - To show the toast notifications for a success or error event
+- `"react-csv": "^2.2.2",` - To export the output window table as CSV
+
+
 ##Screenshots
 
 ![Screenshot 2023-12-27 011615](https://github.com/nimish-star/atlan_assignment/assets/72727644/cb8f120e-e9fa-4500-965c-4a8b35fd8aa7)
