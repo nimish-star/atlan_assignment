@@ -63,4 +63,44 @@ Create a SQL editor view where your users can query easily on a table using SQL,
 4. Page load time of your app.
 
 
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm install
+```
+
+```bash
+  npm start
+```
+
+
+## Tech Stack
+
+**Client:** REACT
+
+
+
+
+##Live Link
+
+https://ubiquitous-lily-a98c0a.netlify.app/
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at nimishlakhmani@gmail.com
+
+
+
+
+
+
 
