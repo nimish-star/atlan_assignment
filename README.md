@@ -81,11 +81,9 @@ To run tests, run the following command
 **Client:** REACT
 
 
-
-
 ##Live Link
 
-https://ubiquitous-lily-a98c0a.netlify.app/
+https://sql2608.netlify.app/
 
 
 ## License
