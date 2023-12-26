@@ -18,3 +18,12 @@ The Webapp loads in about 0.4 s to 0.6s. This is calculated by using Google Ligh
 - Used Lighthouse DevTools Extension to find the performance issues and fix them using their actionable suggestion.
 - Used netlify that has world-class CDN technology that reduces waiting time even further.
 
+ ##  Predefined SQL Queries
+
+- `select * from customers`
+- `select * from categories`
+- `select * from employees`
+- `select * from order_details`
+- `select * from shippers`
+- `select * from suppliers`
+
